@@ -9,8 +9,12 @@
 
 ## Study mode
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208342942-881da9a8-dced-428d-b89e-bd07c10323b0.jpg)
+
 <br>
 
+![KakaoTalk_20221219_125036757](https://user-images.githubusercontent.com/100923108/208344169-7abc0c18-72b5-4784-bc74-a85605158f76.jpg)
+<br>
+<br>
 ## Test mode
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208342945-0a387735-51ed-454f-a605-6e0c37f2dd05.png)
 
