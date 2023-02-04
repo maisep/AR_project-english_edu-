@@ -1,14 +1,14 @@
-# AR_project-english_edu-
+# AR_Project-English_Edu-
 ***
 ### 유니티와 뷰포리아를 이용한 영어 교육용 프로그램의 프로토타입입니다.
-### English education program prototype using Unity and Vuforia
+### English Education Program Prototype Using Unity and Vuforia
 
-## main
+## Main
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208343027-6664856e-899d-4541-bc50-3d1050c0709e.png)
 
 <br>
 
-## Study mode
+## Study Mode
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208342942-881da9a8-dced-428d-b89e-bd07c10323b0.jpg)
 
 <br>
@@ -16,7 +16,7 @@
 ![KakaoTalk_20221219_125036757](https://user-images.githubusercontent.com/100923108/208344169-7abc0c18-72b5-4784-bc74-a85605158f76.jpg)
 <br>
 <br>
-## Test mode
+## Test Mode
 ![img1 daumcdn](https://user-images.githubusercontent.com/100923108/208342945-0a387735-51ed-454f-a605-6e0c37f2dd05.png)
 
 <br>
